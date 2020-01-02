@@ -1,0 +1,580 @@
+new day
+
+FirstName : CHARLES
+LastName : STEVENS
+Title : 
+Company : 
+CompanyType : Educational Institution
+otherCompanyType : 
+Email : CHS@helyxzion.com
+Phone : 608-848-5696
+Address1 : 1901 waterbend dr.
+Address2 : 
+City : verona
+State : wisconsin
+Zip : 53593
+iagreetoterms : yes
+myaction : tourview
+Sub : Submit Form
+
+FirstName : CHARLES
+LastName : STEVENS
+Title : 
+Company : 
+CompanyType : Educational Institution
+otherCompanyType : 
+Email : CHS@helyxzion.com
+Phone : 608-848-5696
+Address1 : 1901 waterbend dr.
+Address2 : 
+City : verona
+State : wisconsin
+Zip : 53593
+iagreetoterms : yes
+myaction : tourview
+Sub : Submit Form
+
+FirstName : Deepak
+LastName : Srinivasan
+Title : 
+Company : 
+CompanyType : Educational Institution
+otherCompanyType : 
+Email : deepak.venky@gmail.com
+Phone : 111-111-1111
+Address1 : 1 acme drive
+Address2 : 
+City : new city
+State : new city
+Zip : 20012
+iagreetoterms : yes
+myaction : tourview
+Sub : Submit Form
+
+FirstName : ;LKASD;FLK
+LastName : ;LKASD;FLK
+Title : 
+Company : 
+CompanyType : Educational Institution
+otherCompanyType : 
+Email : CHS@helyxzion.com
+Phone : ;lka;slf
+Address1 : k;lakds;flk
+Address2 : 
+City : a;lkfd;slkf;
+State : ;alkdf;lk
+Zip : ;lskdf;lk
+iagreetoterms : yes
+myaction : tourview
+Sub : Submit Form
+
+FirstName : FDGAFG
+LastName : ASDFASDF
+Title : 
+Company : 
+CompanyType : Educational Institution
+otherCompanyType : 
+Email : CHS@helyxzion.com
+Phone : 565223623462436
+Address1 : 2435DFADS
+Address2 : 
+City : RADSVA
+State : QW
+Zip : 24353
+iagreetoterms : yes
+myaction : tourview
+Sub : Submit Form
+
+FirstName : chikha
+LastName : alsdklkjad
+Title : 
+Company : 
+CompanyType : Educational Institution
+otherCompanyType : 
+Email : vsd@helyxzion.com
+Phone : 09847250978509
+Address1 : lkjftg0jlkv 
+Address2 : 
+City : ASLKJ
+State : LKJ
+Zip : 65456
+iagreetoterms : yes
+myaction : tourview
+Sub : Submit Form
+
+FirstName : CHARLES
+LastName : STEVENS
+Title : ceo
+Company : 
+CompanyType : Educational Institution
+otherCompanyType : 
+Email : CHS@helyxzion.com
+Phone : 608-848-5696
+Address1 : 1901 waterbend dr.
+Address2 : 
+City : VERONA
+State : wisconsin
+Zip : 53593
+iagreetoterms : yes
+myaction : tourview
+Sub : Submit Form
+
+FirstName : Mirrna
+LastName : Latief
+Title : 
+Company : UW Madison
+CompanyType : Educational Institution
+otherCompanyType : 
+Email : mnlatief@wisc.edu
+Phone : 414 241 6590
+Address1 : 2355 University Ave
+Address2 : 
+City : Madison
+State : WI 
+Zip : 53726
+iagreetoterms : yes
+myaction : tourview
+Sub : Submit Form
+
+FirstName : Thomas
+LastName : Pratt
+Title : 
+Company : 
+CompanyType : Educational Institution
+otherCompanyType : 
+Email : tom@emediawire.com
+Phone : 866-640-6397
+Address1 : 2084 Alder Street
+Address2 : 
+City : Ferndale
+State : WA
+Zip : 98248
+iagreetoterms : yes
+myaction : tourview
+Sub : Submit Form
+
+FirstName : Riti
+LastName : Gupta
+Title : 
+Company : UW Madison
+CompanyType : Educational Institution
+otherCompanyType : 
+Email : reet003@hotmail.com
+Phone : 333-4567
+Address1 : starr grass drive
+Address2 : 
+City : madison
+State : WI
+Zip : 53719
+iagreetoterms : yes
+myaction : tourview
+Sub : Submit Form
+
+FirstName : asdfasdfas
+LastName : dfasdf
+Title : asdfasd
+Company : fasdfasdf
+CompanyType : Educational Institution
+otherCompanyType : 
+Email : fasdfas@yahoo.com
+Phone : dfasdf
+Address1 : asdfasdfas
+Address2 : 
+City : dfasdf
+State : asdfasdfa
+Zip : sdfasd
+iagreetoterms : yes
+myaction : tourview
+Sub : Submit Form
+
+FirstName : Thomas
+LastName : Gillespie
+Title : 
+Company : Spin Web Design
+CompanyType : other
+otherCompanyType : Web Design
+Email : me@thomasjgillespie.name
+Phone : 954 587-6581
+Address1 : 2481 SW 15th St
+Address2 : 
+City : Fort Lauderdale
+State : FL
+Zip : 33312
+iagreetoterms : yes
+myaction : tourview
+Sub : Submit Form
+
+FirstName : david
+LastName : bachinsky
+Title : scientist
+Company : molecular creativity, inc
+CompanyType : For-profit research or development
+otherCompanyType : 
+Email : dbachinsky@comcast.net
+Phone : 978-557-9489
+Address1 : 18-2 Royal Crest Drive
+Address2 : 
+City : North Andover
+State : MA
+Zip : 01845
+iagreetoterms : yes
+myaction : tourview
+Sub : Submit Form
+
+FirstName : CHALRES
+LastName : Stevens
+Title : ceo
+Company : HELYXZION, LLC
+CompanyType : other
+otherCompanyType : undefined
+Email : chs@helyxzion.com
+Phone : 608-848-5696
+Address1 : 1901 waterbend dr
+Address2 : 
+City : madison
+State : wi
+Zip : 53593
+iagreetoterms : yes
+myaction : tourview
+Sub : Submit Form
+
+FirstName : Leone
+LastName : Viru
+Title : 
+Company : 
+CompanyType : Educational Institution
+otherCompanyType : 
+Email : leonhard.rhine@gmail.com
+Phone : 345345934098098
+Address1 : nowehere 1.a
+Address2 : 
+City : ersto
+State : novaa
+Zip : 00000
+iagreetoterms : yes
+myaction : tourview
+Sub : Submit Form
+
+FirstName : asdf
+LastName : asdf
+Title : 
+Company : 
+CompanyType : Educational Institution
+otherCompanyType : 
+Email : asfd@hotmail.com
+Phone : 234-234-2343
+Address1 : asdf 233 sdfkj
+Address2 : 
+City : asdfkbjk
+State : va
+Zip : 20392
+iagreetoterms : yes
+myaction : tourview
+Sub : Submit Form
+
+FirstName : Annemieke
+LastName : Aartsma-rus
+Title : PhD
+Company : Leiden Universitiy Medical Center
+CompanyType : Educational Institution
+otherCompanyType : 
+Email : a.m.rus@lumc.nl
+Phone : +31 71 5276080
+Address1 : Wassenaarseweg 72
+Address2 : 
+City : Leiden
+State : ZH
+Zip : 2317 XX
+iagreetoterms : yes
+myaction : tourview
+Sub : Submit Form
+
+FirstName : Douglas
+LastName : Klimesh
+Title : 
+Company : 
+CompanyType : other
+otherCompanyType : individual
+Email : dougklim@provide.net
+Phone : 734-654-4713
+Address1 : 2922 Roundtree Blvd
+Address2 : 
+City : Ypsilanti
+State : MI
+Zip : 48197
+iagreetoterms : yes
+myaction : tourview
+Sub : Submit Form
+
+FirstName : Douglas
+LastName : Klimesh
+Title : 
+Company : 
+CompanyType : other
+otherCompanyType : individual
+Email : dougklim@provide.net
+Phone : 734-654-4713
+Address1 : 2922 Roundtree Blvd
+Address2 : 
+City : Ypsilanti
+State : MI
+Zip : 48197
+iagreetoterms : yes
+myaction : tourview
+Sub : Submit Form
+
+FirstName : Rajeev
+LastName : Gangal
+Title : 
+Company : 
+CompanyType : Educational Institution
+otherCompanyType : 
+Email : rajeev.gangal@gmail.com
+Phone : n/a
+Address1 : n/a
+Address2 : 
+City : n/a
+State : n/a
+Zip : n/a
+iagreetoterms : yes
+myaction : tourview
+Sub : Submit Form
+
+FirstName : Andrew
+LastName : Makarovskiy
+Title : Investigator
+Company : Tufts-NEMC
+CompanyType : Educational Institution
+otherCompanyType : 
+Email : amakarovskiy@tufts-nemc.org
+Phone : 617-636-6382
+Address1 : 720 Washington St
+Address2 : 
+City : Boston
+State : MA
+Zip : 02111
+iagreetoterms : yes
+myaction : tourview
+Sub : Submit Form
+
+FirstName : Andrew
+LastName : Makarovskiy
+Title : Investigator
+Company : Tufts-NEMC
+CompanyType : Educational Institution
+otherCompanyType : 
+Email : amakarovskiy@tufts-nemc.org
+Phone : 617-636-6382
+Address1 : 720 Washington St
+Address2 : 
+City : Boston
+State : MA
+Zip : 02111
+iagreetoterms : yes
+myaction : tourview
+Sub : Submit Form
+
+FirstName : Andrew
+LastName : Makarovskiy
+Title : Investigator
+Company : Tufts-NEMC
+CompanyType : Educational Institution
+otherCompanyType : 
+Email : amakarovskiy@tufts-nemc.org
+Phone : 617-636-6382
+Address1 : 720 Washington St
+Address2 : 
+City : Boston
+State : MA
+Zip : 02111
+iagreetoterms : yes
+myaction : tourview
+Sub : Submit Form
+
+FirstName : Karen
+LastName : Lavallee
+Title : Research Scientist
+Company : sanofi pasteur
+CompanyType : For-profit research or development
+otherCompanyType : 
+Email : karen.lavallee@sanofipasteur.com
+Phone : 570-895-3207
+Address1 : 1 Discovery Drive
+Address2 : 
+City : Swiftwater
+State : PA
+Zip : 18370
+iagreetoterms : yes
+myaction : tourview
+Sub : Submit Form
+
+FirstName : Joe
+LastName : Bloggs
+Title : 
+Company : 
+CompanyType : Educational Institution
+otherCompanyType : 
+Email : jblogg@yahoo.com
+Phone : 123456789
+Address1 : 45 blogg st
+Address2 : 
+City : new havens
+State : Ct
+Zip : 11021
+iagreetoterms : yes
+myaction : tourview
+Sub : Submit Form
+
+FirstName : Donna
+LastName : Payne
+Title : 
+Company : 
+CompanyType : For-profit research or development
+otherCompanyType : 
+Email : sadiecoo@yahoo.com
+Phone : 901-942-3450
+Address1 : 832 Dempster Ave
+Address2 : 
+City : Memphis
+State : TN
+Zip : 38106
+iagreetoterms : yes
+myaction : tourview
+Sub : Submit Form
+
+FirstName : Stephen
+LastName : Porter
+Title : President, CEO
+Company : VDDI Pharmaceuticals
+CompanyType : For-profit research or development
+otherCompanyType : 
+Email : sporter@virtualdrugdevelopment.com
+Phone : (615)445-5761
+Address1 : 5200 MaryLand Way 
+Address2 : Suite 204
+City : Brentwood
+State : TN
+Zip : 37027
+iagreetoterms : yes
+myaction : tourview
+Sub : Submit Form
+
+FirstName : Matt
+LastName : McAdams
+Title : President
+Company : Woodridge Advisors
+CompanyType : other
+otherCompanyType : consulting firm
+Email : matt@woodridgeadvisors.com
+Phone : 239-263-4338
+Address1 : 5051 Castello Dr
+Address2 : 
+City : Naples
+State : FL
+Zip : 34103
+iagreetoterms : yes
+myaction : tourview
+Sub : Submit Form
+
+FirstName : khaled
+LastName : Abukhamireh
+Title : 
+Company : 
+CompanyType : Educational Institution
+otherCompanyType : 
+Email : khled@sbcglobal.net
+Phone : 414-962-3876
+Address1 : 2519B N Bartlett
+Address2 : 
+City : Milwaukee
+State : wi
+Zip : 53211
+iagreetoterms : yes
+myaction : tourview
+Sub : Submit Form
+
+FirstName : charles 
+LastName : steevnes
+Title : lksjd
+Company : jlakjf
+CompanyType : Educational Institution
+otherCompanyType : 
+Email : chs@helyxzion.com
+Phone : 609-898-0009
+Address1 : 1901 waterbend dr.
+Address2 : 
+City : Des Plaines
+State : wisconsin
+Zip : 53719
+iagreetoterms : yes
+myaction : tourview
+Sub : Submit Form
+
+FirstName : Stephen
+LastName : Porter
+Title : President,CEO
+Company : VDDI Pharmaceuticals
+CompanyType : For-profit research or development
+otherCompanyType : 
+Email : sporterdxrx@aol.com
+Phone : (615)467-3080
+Address1 : 5200 Maryland Way
+Address2 : Suite 204
+City : Brentwood
+State : TN
+Zip : 37027
+iagreetoterms : yes
+myaction : tourview
+Sub : Submit Form
+
+FirstName : Komkrit
+LastName : Sajjaanantakul
+Title : Managing Director
+Company : i+MED Laboratories Co.,Ltd.
+CompanyType : For-profit research or development
+otherCompanyType : null
+Email : komkrit@imed.co.th
+Phone : +6625307800
+Address1 : 1201/100 Sriwara Road
+Address2 : Wangthonglang
+City : Bangkok
+State : Thailand
+Zip : 10310
+iagreetoterms : yes
+myaction : tourview
+Sub : Submit Form
+
+FirstName : Thareerat
+LastName : Kalambaheti
+Title : Dr.
+Company : Microbiology & Immunology
+CompanyType : Educational Institution
+otherCompanyType : 
+Email : tmtkl@mahidol.ac.th
+Phone : 66 2 4377620
+Address1 : 420/6 Rajvithi Road
+Address2 : 
+City : Bangkok
+State : Bangkok
+Zip : 10400
+iagreetoterms : yes
+myaction : tourview
+Sub : Submit Form
+
+FirstName : William
+LastName : Gilbert
+Title : 
+Company : 
+CompanyType : For-profit research or development
+otherCompanyType : 
+Email : gilbert@informagen.com
+Phone : 603 433-6288
+Address1 : 375 Little Bay Road
+Address2 : 
+City : Newington
+State : NH
+Zip : 03801
+iagreetoterms : yes
+myaction : tourview
+Sub : Submit Form
+
