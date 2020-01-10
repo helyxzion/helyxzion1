@@ -3,7 +3,7 @@ new day
 FirstName : CHARLES
 LastName : STEVENS
 Title : CE0
-Company : 
+Company : HELYXZION, LLC.
 CompanyType : Educational Institution
 otherCompanyType : RESEARCH
 Email : INFO@helyxzion.NET
